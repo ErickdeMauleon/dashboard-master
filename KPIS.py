@@ -35,7 +35,7 @@ st.title("KPIS de riesgo")
 # should be
 show_pages(
     [
-        Page("streamlit_app_web.py", "KPIS de riesgo", "")
+        Page("KPIS.py", "KPIS de riesgo", "")
     ]
 )
 
